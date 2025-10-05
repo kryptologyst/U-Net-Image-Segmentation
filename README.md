@@ -19,8 +19,8 @@ A modern implementation of U-Net for image segmentation with PyTorch, featuring 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd unet-image-segmentation
+git clone https://github.com/kryptologyst/U-Net-Image-Segmentation.git
+cd U-Net-Image-Segmentation
 ```
 
 2. Install dependencies:
